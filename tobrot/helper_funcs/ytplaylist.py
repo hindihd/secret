@@ -1,5 +1,4 @@
-# (c) gautamajay52
-# 
+
 # the logging things
 import logging
 logging.basicConfig(
